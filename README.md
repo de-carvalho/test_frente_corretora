@@ -18,6 +18,10 @@ Para a automatização dos cenários, foi utilizado o framework Cypress:
 
 'npm install ou npm i'
 
+3 - Instalar Cypress:
+
+ 'npm install cypress@3.6.0 '
+
 3- Rodar os testes:
 
  'O código da automação dos cenários esta arquivado dentro das pastas cypress/integration'
